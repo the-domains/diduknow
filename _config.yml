@@ -1,14 +1,28 @@
-layout_spectrum: 0.8375601
-typography_spectrum: 0.0847185
+name: Diduknow
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.64221
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3634227
-  lightness: 0.8536859
-  brandStrength: 0.8726999
-  rhythmicContrast: 0.8080712
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-name: Diduknow
+  brandStrength: 0.8726999
+  lightness: 0.8536859
+  saturation: 0.3634227
+  rhythmicContrast: 0.8080712
+purpose: []
