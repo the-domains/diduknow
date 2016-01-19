@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Diduknow]]></title>
         <description><![CDATA[Diduknow]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/diduknow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 02:54:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jan 2016 02:54:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/diduknow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Watch: A neuroscientist debunks common beliefs about drug addiction]]></title>
+            <description><![CDATA[<article><h1>Watch: A neuroscientist debunks common beliefs about drug addiction</h1><p>Carl Hart is a neuroscientist and drug addiction expert at Columbia University. In a recent TEDMED talk, Hart spoke about drug addiction and the many misconceptions surrounding the topic - and how those misconceptions can mislead drug policy. Hart went into neuroscience to cure the drug addiction he blamed for causing crime and poverty in his old Miami neighborhood.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df6310731d0959926a57f6216fedfaa2713671e4.jpg"></article>]]></description>
+            <link>http://www.vox.com/2014/9/18/6375039/a-neuroscientist-debunks-common-beliefs-about-drug-addiction</link>
+            <guid isPermaLink="false">fb2b82ec-0394-4ded-a771-050efce006da</guid>
+            <pubDate>Tue, 19 Jan 2016 02:54:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Addiction: The View from Rat Park (2010)]]></title>
             <description><![CDATA[<article><h1>Addiction: The View from Rat Park (2010)</h1><p>When I talk to addicted people, whether they are addicted to alcohol, drugs, gambling, Internet use, sex, or anything else, I encounter human beings who really do not have a viable social or cultural life. They use their addictions as a way of coping with their dislocation: as an escape, a pain killer, or a kind of substitute for a full life.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6302391952ca6f2bbbddfad9cc3704cf329e5afd.jpg"></article>]]></description>
