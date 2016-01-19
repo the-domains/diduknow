@@ -22,7 +22,7 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://mic.com/articles/116817/if-anyone-tells-you-marijuana-is-a-gateway-drug-show-them-this#.11u0X4xR9'
 title: 'If Anyone Tells You Marijuana Is a Gateway Drug, Show Them This'
-datePublished: '2016-01-19T18:20:04.616Z'
+datePublished: '2016-01-19T18:20:04.735Z'
 dateModified: '2016-01-19T18:19:53.589Z'
 sourcePath: _posts/2016-01-19-if-anyone-tells-you-marijuana-is-a-gateway-drug-show-them-t.md
 published: true
