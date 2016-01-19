@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://mic.com'
   name: Mic
-  favicon: 'http://mic.com/favicon.ico?v2'
   domain: mic.com
+  url: 'http://mic.com'
+  favicon: 'http://mic.com/favicon.ico?v2'
 keywords:
   - gateway
   - marijuana
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://mic.com/articles/116817/if-anyone-tells-you-marijuana-is-a-gateway-drug-show-them-this#.11u0X4xR9'
 title: 'If Anyone Tells You Marijuana Is a Gateway Drug, Show Them This'
-datePublished: '2016-01-19T06:02:41.800Z'
-dateModified: '2016-01-18T08:53:30.210Z'
+datePublished: '2016-01-19T18:20:04.616Z'
+dateModified: '2016-01-19T18:19:53.589Z'
 sourcePath: _posts/2016-01-19-if-anyone-tells-you-marijuana-is-a-gateway-drug-show-them-t.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
